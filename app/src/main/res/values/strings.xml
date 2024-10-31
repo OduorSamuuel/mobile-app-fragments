@@ -1,0 +1,12 @@
+
+<resources>
+<string name="app_name">Travel App</string>
+<string name="title_home">Home</string>
+<string name="title_explore">Explore</string>
+<string name="title_favorites">Favorites</string>
+<string name="title_profile">Profile</string>
+<string name="search_hint">Find things to do</string>
+<string name="book_now">Book Now</string>
+<string name="show_map">Show map</string>
+<string name="read_more">Read more</string>
+</resources>
